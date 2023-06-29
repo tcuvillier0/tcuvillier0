@@ -18,3 +18,6 @@ Skills: Network administration, system administration, C++, python, x86 assemble
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder)
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
