@@ -12,7 +12,7 @@ Skills: Network administration, system administration, C++, python, x86 assemble
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=tcuvillier0&show_icons=true)  
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg) 
+![Visitor Count](https://profile-counter.glitch.me/tcuvillier0/count.svg) 
 
 
 <!-- Markdown -->
